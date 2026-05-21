@@ -21,6 +21,9 @@ python run_firma.py --auto
 
 # Options
 python run_firma.py --workers 4 --outdir ./results --datadir ./data
+
+# Or simply run it from any Python IDE (e.g. Spyder) --> <run file> run_firma.py
+
 ```
 
 ## Structure
