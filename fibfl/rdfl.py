@@ -1,7 +1,7 @@
 """
-fl_rdfl.py  -  Module 3
+fl_rdfl.py  
 ========================
-RDFL: Ring Decentralised Federated Learning (Wang et al., 2021).
+RDFL: Modified version of Ring Decentralised Federated Learning (Wang et al., 2021).
 
 Reference
 ---------
