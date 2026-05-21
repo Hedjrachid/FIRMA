@@ -5,8 +5,8 @@ Fibonacci-weighted federated learning on a ring topology — no central server.
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fibfl.git
-cd fibfl
+git clone https://github.com/Hedjrachid/FIRMA.git
+cd FIRMA
 pip install -r requirements.txt
 ```
 
