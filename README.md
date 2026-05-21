@@ -54,15 +54,14 @@ fibfl/
 
 ```bibtex
 @article{fibfl2025,
-  title  = {FibFL: A Fibonacci-Weighted Federated Learning Protocol Family
-            for Personalised Learning on a Ring Topology Without a Central Server},
-  author = {YOUR NAME},
-  year   = {2025},
+  title  = {FIRMA: FIBONACCI RING MODEL AGGREGATION FOR
+PRIVACY-PRESERVING FEDERATED LEARNING},
+  author = {Rachid Hedjam},
+  year   = {May, 2026},
 }
 ```
 
-Baseline: Wang et al., arXiv 2104.08100, 2021.
 
 ## License
 
-MIT
+
