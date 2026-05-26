@@ -1,6 +1,6 @@
-# FibFL
-
-Fibonacci-weighted federated learning on a ring topology — no central server.
+# FIRMA
+FIBONACCI RING MODEL AGGREGATION FOR PRIVACY-PRESERVING FEDERATED LEARNING
+<a Fibonacci-weighted federated learning on a ring topology — no central server>
 
 ## Install
 
